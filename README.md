@@ -1,8 +1,9 @@
-# Yotube cara penginstalan
+# Youtube how to install
 • Channel : RANDI OLOYY
-# Di saran kan pake python2 decom.py
+# It's recommended to use
 python2 decom.py
 
+#فك تشفير ادوات المشفرة بي المارشال
 
 
 
